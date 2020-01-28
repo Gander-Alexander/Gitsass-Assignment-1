@@ -1,0 +1,62 @@
+
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+.tracker {
+  position: absolute;
+
+  margin: 2em;
+
+  font-size: 1.5em;
+  color: white;
+  font-weight: bolder;
+}
+
+.period {
+  color: #FA6797;
+  font-size: 2em;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+
+  list-style: none;
+  
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  background-color:  #4B2BB7;
+
+}
+
+nav a {
+  display: block;
+
+  text-decoration: none;
+
+  margin: 0;
+  padding: 1.2em;
+
+  color: white;
+  font-size: 1em;
+  font-family: sans-serif;
+}
+
+.hero {
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #4B2BB7;
+
+  height: 50vh;
+  width: 100vw;
+}
+
+h3 {
+  margin: 0;
+}
