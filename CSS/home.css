@@ -96,7 +96,7 @@ nav a {
 }
 
 .squares div {
-  background-color: #E2DDEF;
+  background-color: rgb(150, 66, 184);
 
   width: 200px;
   height: 200px;
